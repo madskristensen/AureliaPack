@@ -1,6 +1,6 @@
-## HTML Snippet Pack for Visual Studio
+## Aurelia Pack for Visual Studio
 
-[![Build status](https://ci.appveyor.com/api/projects/status/cn94gck26m3nktys?svg=true)](https://ci.appveyor.com/project/madskristensen/htmlsnippetpack)
+[![Build status](https://ci.appveyor.com/api/projects/status/r4jqbasj8i8ue0ea?svg=true)](https://ci.appveyor.com/project/madskristensen/aureliapack)
 
 Download this extension from the
 [VS Gallery](https://visualstudiogallery.msdn.microsoft.com/57a8ac31-775a-428c-ade9-6837d183a4dc)
