@@ -1,0 +1,31 @@
+﻿<CodeSnippet Format="1.1.0" xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+  <Header>
+    <Title>replaceable</Title>
+    <Shortcut>replaceable</Shortcut>
+    <Author>Mads Kristensen</Author>
+    <Description>Markup snippet for a replaceable template element</Description>
+    <SnippetTypes>
+      <SnippetType>Expansion</SnippetType>
+      <SnippetType>SurroundsWith</SnippetType>
+    </SnippetTypes>
+  </Header>
+  <Snippet>
+    <Declarations>
+      <Literal>
+        <ID>url</ID>
+        <ToolTip>url</ToolTip>
+        <Default>url</Default>
+      </Literal>
+      <Literal>
+        <ID>item</ID>
+        <ToolTip>item</ToolTip>
+        <Default>item</Default>
+      </Literal>
+    </Declarations>
+    <Code Language="html" Key="*">
+      <![CDATA[<template replaceable part="$item$">
+  $selected$$end$
+</template>]]>
+    </Code>
+  </Snippet>
+</CodeSnippet>

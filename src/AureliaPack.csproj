@@ -54,10 +54,109 @@
       <Link>Resources\LICENSE</Link>
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\HTML\Aurelia Pack\ost.snippet">
+    <Content Include="Snippets\JavaScript\Aurelia Pack\ost.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\JavaScript\Aurelia Pack\ost.snippet">
+    <Content Include="Snippets\HTML\Aurelia Pack\if.bind.snippet">
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
+    <Content Include="Snippets\HTML\Aurelia Pack\value.bind.snippet">
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
+    <Content Include="Snippets\HTML\Aurelia Pack\with.bind.snippet">
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
+    <Content Include="Snippets\HTML\Aurelia Pack\input.bind.snippet">
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
+    <Content Include="Snippets\HTML\Aurelia Pack\href.bind.snippet">
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
+    <Content Include="Snippets\HTML\Aurelia Pack\router.bind.snippet">
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
+    <Content Include="Snippets\HTML\Aurelia Pack\click.trigger.snippet">
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
+    <Content Include="Snippets\HTML\Aurelia Pack\click.delegate.snippet">
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
+    <Content Include="Snippets\HTML\Aurelia Pack\repeat.for.snippet">
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
+    <Content Include="Snippets\HTML\Aurelia Pack\value.two-way.snippet">
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
+    <Content Include="Snippets\HTML\Aurelia Pack\value.one-way.snippet">
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
+    <Content Include="Snippets\HTML\Aurelia Pack\value.one-time.snippet">
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
+    <Content Include="Snippets\HTML\Aurelia Pack\model.two-way.snippet">
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
+    <Content Include="Snippets\HTML\Aurelia Pack\model.one-way.snippet">
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
+    <Content Include="Snippets\HTML\Aurelia Pack\model.one-time.snippet">
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
+    <Content Include="Snippets\HTML\Aurelia Pack\checked.bind.snippet">
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
+    <Content Include="Snippets\HTML\Aurelia Pack\innerhtml.bind.snippet">
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
+    <Content Include="Snippets\HTML\Aurelia Pack\textcontent.bind.snippet">
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
+    <Content Include="Snippets\HTML\Aurelia Pack\model.bind.snippet">
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
+    <Content Include="Snippets\HTML\Aurelia Pack\style.bind.snippet">
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
+    <Content Include="Snippets\HTML\Aurelia Pack\show.bind.snippet">
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
+    <Content Include="Snippets\HTML\Aurelia Pack\view-model.bind.snippet">
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
+    <Content Include="Snippets\HTML\Aurelia Pack\compose.snippet">
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
+    <Content Include="Snippets\HTML\Aurelia Pack\require.snippet">
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
+    <Content Include="Snippets\HTML\Aurelia Pack\bindable.snippet">
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
+    <Content Include="Snippets\HTML\Aurelia Pack\to.bind.snippet">
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
+    <Content Include="Snippets\HTML\Aurelia Pack\replaceable.snippet">
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
+    <Content Include="Snippets\HTML\Aurelia Pack\replace-part.snippet">
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
+    <Content Include="Snippets\HTML\Aurelia Pack\view.ref.snippet">
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
+    <Content Include="Snippets\HTML\Aurelia Pack\view-model.ref.snippet">
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
+    <Content Include="Snippets\HTML\Aurelia Pack\controller.ref.snippet">
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
+    <Content Include="Snippets\HTML\Aurelia Pack\attribute-name.ref.snippet">
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
+    <Content Include="Snippets\HTML\Aurelia Pack\element.ref.snippet">
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
+    <Content Include="Snippets\HTML\Aurelia Pack\producer.ref.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
     <None Include="source.extension.vsixmanifest">

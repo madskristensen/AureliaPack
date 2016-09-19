@@ -5,21 +5,28 @@
 Download this extension from the
 [VS Gallery](https://visualstudiogallery.msdn.microsoft.com/57a8ac31-775a-428c-ade9-6837d183a4dc)
 or get the
-[nightly build](http://vsixgallery.com/extension/2a20580c-7be4-4440-bcd6-8dcf5aa2004e/).
+[nightly build](http://vsixgallery.com/extension/17d3b53c-0064-4dab-b9ab-c009476911aa/).
 
 -----------------------------------------
 
 A snippet pack to make you more productive working with HTML.
 
-![Snippet manager](art/snippet-pack.gif)
+Based on the excellent [Aurelia Snippets for VS Code](https://github.com/behzad888/vscode-aurelia-snippets) extension.
 
+## HTML Snippets
+There is a bunch of snippets for various Aurelia HTML attributes:
 
-This extension ships a bunch of useful code snippets for
-the JavaScript editor. Get an overview from the
-**Code Snippet Manager** in Visual Studio located under
-the **Tools** top level menu.
+![Html Attributes](art/html-attributes.png)
 
-![Snippet manager](art/snippet-manager.png)
+And for HTML elements as well:
+
+![Html Elements](art/html-elements.png)
+
+## JavaScript snippets
+coming soon...
+
+## TypeScript snippets
+Not supported by the TypeScript editor in Visual Studio 2015 and earlier
 
 ## Contribute
 Check out the [contribution guidelines](.github/CONTRIBUTING.md)

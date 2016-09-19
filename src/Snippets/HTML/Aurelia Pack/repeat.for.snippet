@@ -1,0 +1,26 @@
+﻿<CodeSnippet Format="1.1.0" xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+  <Header>
+    <Title>repeat.for</Title>
+    <Shortcut>au-repeatFor</Shortcut>
+    <Author>Mads Kristensen</Author>
+    <Description>Markup snippet for a repeat.for attribute</Description>
+    <SnippetTypes>
+      <SnippetType>Expansion</SnippetType>
+    </SnippetTypes>
+  </Header>
+  <Snippet>
+    <Declarations>
+      <Literal>
+        <ID>item</ID>
+        <ToolTip>item</ToolTip>
+        <Default>item</Default>
+      </Literal>
+      <Literal>
+        <ID>collection</ID>
+        <ToolTip>collection</ToolTip>
+        <Default>collection</Default>
+      </Literal>
+    </Declarations>
+    <Code Language="html" Key="*"><![CDATA[repeat.for="$item$ of $collection$"$end$]]></Code>
+  </Snippet>
+</CodeSnippet>
