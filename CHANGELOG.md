@@ -2,6 +2,7 @@
 
 - [ ] JavaScript snippets
 - [ ] Item templates
+- [ ] Intellisense for custom elements
 
 Features that have a checkmark are complete and available for
 download in the
