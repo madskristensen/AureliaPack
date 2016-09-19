@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
+  <Metadata>
+    <Identity Id="17d3b53c-0064-4dab-b9ab-c009476911aa" Version="1.0" Language="en-US" Publisher="Mads Kristensen" />
+    <DisplayName>Aurelia Pack</DisplayName>
+    <Description xml:space="preserve">A snippet pack to make you more productive working with the Aurelia JavaScript framework</Description>
+    <MoreInfo>https://github.com/madskristensen/AureliaPack</MoreInfo>
+    <License>Resources\LICENSE</License>
+    <Icon>Resources\Icon.png</Icon>
+    <PreviewImage>Resources\Preview.png</PreviewImage>
+    <Tags>html, snippets, javascript, Aurelia</Tags>
+  </Metadata>
+  <Installation>
+    <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="14.0" />
+    <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="15.0" />
+  </Installation>
+  <Assets>
+    <Asset Type="Microsoft.VisualStudio.VsPackage" d:Source="File" Path="Snippets\snippets.pkgdef" />
+  </Assets>
+</PackageManifest>
