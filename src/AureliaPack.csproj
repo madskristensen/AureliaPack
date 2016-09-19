@@ -54,7 +54,7 @@
       <Link>Resources\LICENSE</Link>
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\HTML\Aurelia\ost.snippet">
+    <Content Include="Snippets\HTML\Aurelia Pack\ost.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
     <None Include="source.extension.vsixmanifest">
@@ -62,7 +62,7 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Snippets\HTML\Aurelia\_default.png">
+    <Content Include="Snippets\HTML\Aurelia Pack\_default.png">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
     <Content Include="Snippets\snippets.pkgdef">
