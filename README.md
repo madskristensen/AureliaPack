@@ -13,6 +13,8 @@ A snippet pack to make you more productive working with HTML.
 
 Based on the excellent [Aurelia Snippets for VS Code](https://github.com/behzad888/vscode-aurelia-snippets) extension.
 
+**Note**, that HTML snippet extensions are not supported by ReSharper and will therefore not work with ReSharper installed.
+
 See the [change log](CHANGELOG.md) for updates and road map.
 
 ## HTML Snippets
